@@ -1,0 +1,13 @@
+{
+    "name": "azure-cloud-shell-examples",
+    "version": "0.1.0",
+    "description": "Example of using library for accessing Azure Cloud Shell functionality",
+    "dependencies": {
+        "azure-cloud-shell": "file:../azure-cloud-shell/azure-cloud-shell-0.1.0.tgz"
+    },
+    "author": "Brendan Burns",
+    "license": "MIT",
+    "devDependencies": {
+        "@types/node": "^10.10.1"
+    }
+}
